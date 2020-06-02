@@ -25,15 +25,11 @@ public class SeleniumTest {
 
 	}
 	@Test
-	public void elementU1234i()
+	public void element123()
 	{
-		System.out.println("elementU1234i");
+		System.out.println("element123");
 
 	}
-	@Test
-	public void elementU1234iyuu()
-	{
-		System.out.println("elementU1234iooi");
 
-	}
+	
 }
