@@ -30,4 +30,10 @@ public class SeleniumTest {
 		System.out.println("elementU1234i");
 
 	}
+	@Test
+	public void elementU1234iyuu()
+	{
+		System.out.println("elementU1234iooi");
+
+	}
 }
